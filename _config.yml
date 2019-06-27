@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'angelica.amatangelo@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,6 +19,14 @@ plugins:
   - jekyll-seo-tag
   
 authors:
+    angelica:
+      name:           Angelica Fei Li
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am Angelica, the author of this blog. I hope you like it!"
+      email:          angelica.amatangelo@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+      
     sal:
       name:           Sal
       site:           https://www.wowthemes.net
@@ -43,7 +51,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: angelica
       avatar: /assets/images/avatar1.jpg
       
   # all pages
